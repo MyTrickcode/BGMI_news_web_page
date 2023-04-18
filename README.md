@@ -1,2 +1,2 @@
 # BGMI_news_web_page
-This is the web-page created using bootstrap for BGMI new letter.
+This is the web-page created using bootstrap for BGMI new letter. IN this web page i have create a besic web-page layout. In which i add navigation bar, carosoul, cards and footer. and in images i have used in link from several site. You can just copy the code from here to use and if you want to improve your coding besics. try to do yourself. there is file named BGMI_news_web_page open that file the code for web-page is in that file.
